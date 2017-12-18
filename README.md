@@ -1,2 +1,2 @@
 # KotlinIntentDemo
-In this project Demo for Passing the Data from One Activity to another Activity
+In this project_Demo is for Passing the Data from One Activity to another Activity
